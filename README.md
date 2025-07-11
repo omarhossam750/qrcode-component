@@ -4,4 +4,4 @@ This is a Frontend Mentor Challenge to build a Responsive QR Code Component usin
 
 I built it using **Flexbox**, **Media Queries** and **Positions**.
 
-[Preview Website] (https://example.com)
+[Preview Website] (https://omarhossam750.github.io/qrcode-component/)
